@@ -3,7 +3,7 @@
 #
 
 ## TEAM NAME
-<img src="./img0/team.png" alt="team" style="zoom:50%;" />
+<img src="https://github.com/WMengge/keyidu/blob/main/img0/team.png" alt="team" style="zoom:50%;" />
 
 >KEYIDU:Everything will be OK！  
 是认真学习、活泼开朗、团结友爱的小姐姐五枚呀
